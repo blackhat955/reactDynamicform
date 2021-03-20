@@ -1,0 +1,32 @@
+input{
+  width:80%;
+  height:30px;
+  margin-top:10px;
+  outline:none;
+  border-radius:5px;
+  border:2px solid blue;
+}
+button{
+   width:80%;
+   height:30px;
+   margin-top:10px;
+   background:black;
+   color:white;
+   cursor:pointer;
+   border:2px solid blue;
+   display:none;
+}
+button:hover{
+transform:scale(1.1);
+ background:green;
+}
+select{
+    width:80%;
+    height:30px;
+    margin-top:10px;
+    border:2px solid blue;
+}
+option{
+  width:80%;
+  height:100px;
+}
